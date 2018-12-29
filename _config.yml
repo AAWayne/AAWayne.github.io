@@ -101,9 +101,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·阿唯不知道",
-        href: "http://www.jianshu.com/u/0f7d26d766f4"
-    },{
         title: "简书·fanhua1994",
         href: "http://www.jianshu.com/u/50c9e5f00da3"
     },{
@@ -112,5 +109,8 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "Other YY Link",
+        href: "https://www.seyeye6.com/videos/"
     }
 ]
