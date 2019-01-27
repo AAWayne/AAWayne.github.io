@@ -3,7 +3,7 @@ layout:     post
 title:      CocoaPods 安装和使用
 subtitle:   安装时间 2017/04/13, 环境macOS 12.10.1， cocoapod版本 1.2.1
 date:       2017-04-13
-author:     BY
+author:     阿唯不知道
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
