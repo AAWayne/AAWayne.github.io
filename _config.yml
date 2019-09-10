@@ -1,5 +1,5 @@
 # Site settings
-title: iOS企业签名商务合作
+title: iOS企业签名
 SEOTitle: 阿唯不知道的博客
 header-img: img/post-bg-os-metro.jpg
 email: 90candy.com@gmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/90candy/90candy.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "iOS企业签名商务合作, 加Q:920093012详谈(可按天/月/季/年计费)"
+sidebar-about-description: "不要因走得太远而忘记为什么出发"
 sidebar-avatar: /img/about-me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
