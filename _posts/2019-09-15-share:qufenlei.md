@@ -4,7 +4,7 @@ title:      你能否抓住机会日入几千乃至上万
 subtitle:   趣分类
 date:       2019-09-15
 author:     阿唯不知道
-header-img: img/post-bg-ios10.jpg
+header-img: img/home-bg-art.jpg
 catalog: true
 tags:
     - 趣分类
