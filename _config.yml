@@ -2,12 +2,12 @@
 title: 阿唯不知道
 SEOTitle: 阿唯不知道的博客
 header-img: img/post-bg-os-metro.jpg
-email: 90candy.com@gmail.com
+email: wayne.yuangm@gmail.com
 description: "Every failure is leading towards success."
 keyword: "阿唯不知道, 阿唯不知道的博客, iOS企业签名, ios企业签名, IOS企业签名"
-url: "http://90candy.github.io"          # your host, for absolute URL
+url: "http://AAWayne.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/90candy/90candy.github.io.git" # you code repository
+github_repo: "https://github.com/AAWayne/AAWayne.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -17,11 +17,11 @@ sidebar-avatar: /img/about-me.png      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:
-zhihu_username:     90candy
-github_username:    90candy
-#facebook_username:  90candy
+#zhihu_username:     AAWayne
+github_username:    AAWayne
+#facebook_username:  AAWayne
 jianshu_username:   0f7d26d766f4
-##twitter_username:   90candy
+##twitter_username:   AAWayne
 
 
 
@@ -55,7 +55,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: 90candy
+# disqus_username: AAWayne
 
 # Gitalk
 # Gitalk注册地址：https://github.com/settings/applications/new
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 01b5e641327070439547                            #生成的clientID
   clientSecret: d884d50df9159246af329a5eeddfa70aaa856fdd    #生成的clientSecret
-  repo: 90candy.github.io    #仓库名称
-  owner: 90candy    #github用户名
-  admin: 90candy
+  repo: AAWayne.github.io    #仓库名称
+  owner: AAWayne    #github用户名
+  admin: AAWayne
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
